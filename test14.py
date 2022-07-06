@@ -7,3 +7,4 @@ for school in schools:
     for row in rows:
         #print(school, ":", row[0], "次")
         print("{}:{}次".format(school, row[0]))
+        
